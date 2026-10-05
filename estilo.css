@@ -2,21 +2,21 @@
    Variables de Marca (Slate Blue / Executive Slate)
    ========================================================================== */
 :root {
-  --color-bg: #F8FAFC;
-  --color-surface: #FFFFFF;
-  --color-text-primary: #1C3F71;
-  --color-text-secondary: #5D7B9A;
-  --color-accent: #2D5A9C;
-  --color-accent-hover: #1C3F71;
-  --color-border: #E2E8F0;
-  --color-badge-bg: #DFE4EA;
+    color-bg: #F8FAFC;
+    color-surface: #FFFFFF;
+    color-text-primary: #1C3F71;
+    color-text-secondary: #5D7B9A;
+    color-accent: #2D5A9C;
+    color-accent-hover: #1C3F71;
+    color-border: #E2E8F0;
+    color-badge-bg: #DFE4EA;
   
-  --font-heading: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-heading: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
 
-  --radius-sm: 8px;
-  --radius-md: 12px;
-  --shadow-sm: 0 1px 3px rgba(15, 23, 42, 0.05);
+    radius-sm: 8px;
+    radius-md: 12px;
+    shadow-sm: 0 1px 3px rgba(15, 23, 42, 0.05);
 }
 
 /* ==========================================================================
