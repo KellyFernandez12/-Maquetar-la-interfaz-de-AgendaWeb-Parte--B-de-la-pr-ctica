@@ -11,7 +11,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Plus+Jakarta+Sans:wght@600;700&display=swap" rel="stylesheet">
   
   <!-- Hoja de estilos unificada -->
- <link rel="stylesheet" href="css/estilo.css">
+ <link rel="stylesheet" href="estilo.css">
 </head>
 <body class="layout">
 
